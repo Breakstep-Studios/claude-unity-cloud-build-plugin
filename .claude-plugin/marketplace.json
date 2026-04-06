@@ -1,8 +1,13 @@
 {
+  "name": "Breakstep Studios Claude Plugins",
+  "owner": {
+    "name": "Breakstep Studios"
+  },
   "plugins": [
     {
       "name": "unity-cloud-build",
       "description": "Interact with the Unity Cloud Build API — list targets, update configs, trigger builds, and more.",
+      "source": "./",
       "version": "1.0.0"
     }
   ]
