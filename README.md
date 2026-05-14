@@ -4,8 +4,9 @@ A Claude Code plugin for interacting with the Unity Cloud Build API — list tar
 
 ## Installation
 
-```bash
-/plugin install Breakstep-Studios/claude-unity-cloud-build-plugin
+```
+/plugin marketplace add Breakstep-Studios/claude-plugins
+/plugin install unity-cloud-build@breakstep-studios
 ```
 
 ## Per-Project Setup
